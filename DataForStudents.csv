@@ -1,0 +1,34 @@
+Area,InnerOuter,NorthSouth,PopDens,AverageAge,PercentBornAbroad,PercentBAME,MaleEmployment,FemaleEmployment,MalePay,FemalePay,CrimePerThous,MedianHousePrice,Recycling Rate,MaleLifeExpectancy,FemaleLifeExpectancy,LifeSatisfaction,ChildhoodObesityPrev,MortalityPreventable,LargestPropRentOwn
+City of London,Inner London,North,28.9,42.9,,27.5,,,,,,765000,M,,,6.59,,128.8,Rent
+Barking and Dagenham,Outer London,North,57.3,32.9,37.4,49.5,75.6,56.5,29792,25251,83.4,215000,L,77.6,82.1,7.14,25.3,227.6,Rent
+Barnet,Outer London,North,44.5,37.2,35.9,38.7,74.5,62.9,37058,30449,62.7,400000,M,82.1,85.1,7.48,18.4,133.8,Own
+Bexley,Outer London,South,39.9,38.9,16.1,21.4,82.1,68.5,36020,25776,51.8,250000,H,80.4,84.4,7.38,21.4,164.3,Own
+Brent,Outer London,North,76.1,35.5,56.2,64.9,76,62.6,31149,27653,78.8,385000,H,80.1,85.1,7.25,23.9,169.4,Rent
+Bromley,Outer London,South,21.7,40.1,17.2,18.9,80.4,70.4,42464,32600,64.1,335000,H,81.4,84.9,7.54,16.5,148.5,Own
+Camden,Inner London,North,109.8,36.2,42.4,34.6,72.2,66.1,42905,35936,123.5,675000,M,81.8,86.7,7.14,20.8,163.8,Rent
+Croydon,Outer London,South,44.4,36.9,29.7,49.9,81.8,69.5,34300,30509,77,265000,H,80.3,83.6,7.1,23.8,178.2,Own
+Ealing,Outer London,North,63.5,36.1,45.5,53.5,81.2,63.8,30800,27807,75.5,388000,H,80.6,84.2,7.29,23.3,163.5,Own
+Enfield,Outer London,North,41,36.2,32.8,42.3,80.4,66,34234,27901,69.4,285000,H,80.7,84.1,7.26,25.4,152,Own
+Greenwich,Outer London,South,58.8,34.9,32.9,40.3,77.9,66.3,34835,28911,79.4,317000,M,79,82.5,7.2,24.5,193.2,Rent
+Hackney,Inner London,North,141.1,32.9,38.9,43.6,72.8,65.3,,32205,99.6,433000,L,78.5,83.3,7.03,25.6,210.6,Rent
+Hammersmith and Fulham,Inner London,North,111.8,35.6,41.5,33.7,80.9,74.2,,34539,113.2,661000,L,79.7,84.1,7.41,23.3,187.4,Rent
+Haringey,Inner London,North,92.7,34.9,39.6,38.2,77.6,64.8,32000,29224,90.2,405000,M,80.1,84.9,7.24,22.6,183.4,Rent
+Harrow,Outer London,North,49.8,38.1,50.7,61.8,83.1,64.7,36355,29621,50.4,370000,H,82.7,86.1,7.33,21.1,134.2,Own
+Havering,Outer London,North,22.3,40.3,11.9,15.7,81.3,71.8,36530,28243,62.9,250000,M,80.2,83.9,7.39,20.8,159.3,Own
+Hillingdon,Outer London,North,25.8,36.3,33.1,45.7,80.7,65.9,34409,30515,76.6,307000,H,80.4,83.9,7.37,19.8,170.1,Own
+Hounslow,Outer London,North,48.9,35.7,47.8,51.6,84.7,63.2,,,79.2,319950,M,80,83.9,7.31,22.8,165.8,Own
+Islington,Inner London,North,153,34.7,36.8,32,78.2,67,39361,31994,121.2,530000,M,79,83.5,7.17,22.8,202.8,Rent
+Kensington and Chelsea,Inner London,North,129.2,39.1,54.7,30,76.3,60.4,,,120.9,1195000,L,83.3,86.4,7.61,21.5,136.3,Rent
+Kingston upon Thames,Outer London,South,46.3,37,29.2,30.4,80.9,67.8,40000,32928,58.5,385000,H,82,84.6,7.34,15.8,140.6,Own
+Lambeth,Inner London,South,121.4,34.4,33.6,41.5,82.3,74.6,,30732,104.6,420000,L,78.9,83.3,7.14,27.1,205,Rent
+Lewisham,Inner London,South,84.7,34.9,30.9,47.4,79.6,72.4,32738,30048,77,315000,L,79,83.4,7.18,24.2,190.8,Rent
+Merton,Outer London,South,55.7,36.6,41.1,36.7,86.3,71.4,36763,30307,59.7,385000,H,80.4,84.2,7.28,21.6,161.8,Own
+Newham,Inner London,North,93.5,31.9,51.8,73.1,75,56.1,28160,25055,90.8,250000,L,78.5,83,7.12,27.4,193.4,Rent
+Redbridge,Outer London,North,53.3,35.7,40.1,62.7,79.1,57.6,39266,30118,69.7,301500,L,80.9,84.6,7.32,22.9,141.9,Own
+Richmond upon Thames,Outer London,South,34.3,38.7,24.2,15.7,82.1,77.2,42896,34653,56.3,535000,H,82.4,86,7.54,11.2,137.4,Own
+Southwark,Inner London,South,108.2,34.2,35.9,45.7,79.8,68.6,36067,32600,100.6,420000,M,78.9,83.9,7.47,28,207.5,Rent
+Sutton,Outer London,South,46.1,38.7,26.4,25,86.2,70.5,36168,26404,55.9,285000,M,80.9,83.4,7.46,17.4,163.2,Own
+Tower Hamlets,Inner London,North,149.8,31.3,37.8,54,80.3,59.6,,32934,99.9,383000,L,78.1,82.5,7.22,26.7,238.7,Rent
+Waltham Forest,Outer London,North,71.1,34.9,36,49.9,76.8,69.4,32492,25729,78,320000,M,79.4,83.8,7.19,21.7,185.3,Rent
+Wandsworth,Inner London,South,93.8,34.9,32.8,29.7,86.6,71.6,42181,37053,72.6,532500,L,79.5,83.7,7.37,20.7,176.6,Rent
+Westminster,Inner London,North,110.4,37.6,51.3,38.8,68.6,62.3,45872,37918,212.4,875000,L,82.3,86.3,7.25,24.5,161.5,Rent
